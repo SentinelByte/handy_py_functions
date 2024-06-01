@@ -20,8 +20,11 @@ Features
 
 # Usage
 Here's a quick example demonstrating how to use the libraries:
+
 import handy_python_functions as hpf
+
 result = hpf.some_function(argument)
+
 print(result)
 
 For detailed usage instructions and function documentation, please refer to the documentation.
