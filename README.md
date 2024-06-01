@@ -20,7 +20,6 @@ Features
 
 # Usage
 Here's a quick example demonstrating how to use the library:
-
 python
 import handy_python_functions as hpf
 result = hpf.some_function(argument)
