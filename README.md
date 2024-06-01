@@ -6,16 +6,16 @@ Welcome to handy_python_functions! This Python library is a comprehensive collec
 Features
 
 - Versatile Functions:
+
   From basic data manipulation to advanced algorithms, this library offers a wide range of functions to suit various programming needs.
 
 - Code Readability:
+
   Each function is meticulously crafted to promote code readability and maintainability, ensuring that your projects remain clean and understandable.
 
 - Clear Documentation:
-  Detailed documentation accompanies each function, providing comprehensive explanations and examples to facilitate easy integration and usage.
 
-- Community Contributions:
-- We welcome contributions from the community to expand and improve the library, making it a collaborative resource for developers worldwide.
+  Detailed documentation accompanies each function, providing comprehensive explanations and examples to facilitate easy integration and usage.
   
 
 # Usage
