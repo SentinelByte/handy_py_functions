@@ -4,28 +4,28 @@ Overview
 Welcome to handy_python_functions! This Python library is a comprehensive collection of utilities and functions designed to simplify common programming tasks. Whether you're a beginner looking to streamline your code or an experienced developer seeking efficient solutions, this library aims to enhance your Python projects with ease.
 Features
 
-    Versatile Functions: From basic data manipulation to advanced algorithms, this library offers a wide range of functions to suit various programming needs.
-    Code Readability: Each function is meticulously crafted to promote code readability and maintainability, ensuring that your projects remain clean and understandable.
-    Clear Documentation: Detailed documentation accompanies each function, providing comprehensive explanations and examples to facilitate easy integration and usage.
-    Community Contributions: We welcome contributions from the community to expand and improve the library, making it a collaborative resource for developers worldwide.
+- Versatile Functions:
+  From basic data manipulation to advanced algorithms, this library offers a wide range of functions to suit various programming needs.
 
-Installation
+- Code Readability:
+  Each function is meticulously crafted to promote code readability and maintainability, ensuring that your projects remain clean and understandable.
 
-You can install handy_python_functions via pip:
+- Clear Documentation:
+  Detailed documentation accompanies each function, providing comprehensive explanations and examples to facilitate easy integration and usage.
 
-pip install handy_python_functions
+- Community Contributions:
+- We welcome contributions from the community to expand and improve the library, making it a collaborative resource for developers worldwide.
+  
 
 Usage
-
 Here's a quick example demonstrating how to use the library:
 
 python
-
 import handy_python_functions as hpf
-
 # Example usage of a function
 result = hpf.some_function(argument)
 print(result)
+
 
 For detailed usage instructions and function documentation, please refer to the documentation.
 Contributing
