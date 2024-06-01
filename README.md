@@ -28,16 +28,15 @@ result = hpf.some_function(argument)
 print(result)
 
 For detailed usage instructions and function documentation, please refer to the documentation.
-Contributing
 
-Contributions are welcome! If you have ideas for new features or improvements, please open an issue or submit a pull request. 
-Make sure to follow our contribution guidelines.
 
 # License
-This project is licensed under the GNU General Public License v3.0 , which means you are free to use, modify, and distribute the code for personal or commercial purposes. See the LICENSE file for more details.
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0), a strong copyleft license. Usage is subject to conditions including the provision of complete source code for licensed works and modifications. Larger works incorporating a licensed work must also adhere to the same license. Preservation of copyright and license notices is mandatory. Additionally, contributors offer an express grant of patent rights. For detailed terms, please consult the LICENSE file.
+
 Reference - https://choosealicense.com/licenses/gpl-3.0/
 
+
 # Acknowledge
-Feel free to customize and expand upon this template to better suit the specifics of your project!
 Owner: DanCohVax
+
 Warm regards
