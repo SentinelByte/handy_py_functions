@@ -1,5 +1,6 @@
-handy_python_functions
-Overview
+## handy_python_functions
+
+# Overview
 
 Welcome to handy_python_functions! This Python library is a comprehensive collection of utilities and functions designed to simplify common programming tasks. Whether you're a beginner looking to streamline your code or an experienced developer seeking efficient solutions, this library aims to enhance your Python projects with ease.
 Features
@@ -17,12 +18,12 @@ Features
 - We welcome contributions from the community to expand and improve the library, making it a collaborative resource for developers worldwide.
   
 
-Usage
+# Usage
 Here's a quick example demonstrating how to use the library:
 
 python
 import handy_python_functions as hpf
-# Example usage of a function
+/# Example usage of a function
 result = hpf.some_function(argument)
 print(result)
 
